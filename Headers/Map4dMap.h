@@ -3,7 +3,7 @@
 //  Map4dMap SDK for iOS
 //  Version 3.3.3
 //
-//  Copyright (c) 2025 IOTLink LLC.
+//  Copyright (c) 2026 IOTLink LLC.
 //
 
 #import "MFMapID.h"
