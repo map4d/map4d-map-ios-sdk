@@ -55,6 +55,8 @@ typedef NS_ENUM(NSUInteger, MFMapType) {
 
 @property(nonatomic, nullable) MFMapStyle *mapStyle;
 
+@property(nonatomic, readonly, nullable) NSString *mapStyleJSON;
+
 @property(nonatomic) CGFloat nativeScale;
 
 - (instancetype)initWithFrame:(CGRect)frame;
