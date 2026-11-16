@@ -11,6 +11,18 @@ It provides a wide range of features and functionalities to create interactive a
 
 ## Installation
 
+### Swift Package Manager
+
+In Xcode, choose **File > Add Package Dependencies** and enter:
+
+```text
+https://github.com/map4d/map4d-map-ios-sdk.git
+```
+
+Select version `3.3.8` or later and add the `Map4dMap` product to your app target.
+
+### CocoaPods
+
 Use [CocoaPods](https://cocoapods.org).
 
 1. Update your cocoapods local repo
