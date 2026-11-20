@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Map4dMap",
-            url: "https://github.com/map4d/map4d-map-ios-sdk/releases/download/3.3.8/Map4dMap-3.3.8.xcframework.zip",
-            checksum: "c8b83bf3d1130d7c8105f82d43f68004bb4141c0c5c3f4d03b62b5467907e25f"
+            url: "https://github.com/map4d/map4d-map-ios-sdk/releases/download/3.4.0/Map4dMap-3.4.0.xcframework.zip",
+            checksum: "eb053d8b97330de4fda7553238e4d074fb8e858c5e8ac7017f5c0b0e0e91069c"
         )
     ]
 )
